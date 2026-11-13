@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: banking-ml-project
+Version: 0.1.0
+Summary: Machine-learning project for banking data
+Requires-Python: >=3.10

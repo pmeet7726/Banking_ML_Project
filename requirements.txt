@@ -1,0 +1,11 @@
+pandas
+numpy
+sqlalchemy
+pymysql
+python-dotenv
+jupyter
+matplotlib
+seaborn
+scikit-learn
+# Add runtime dependencies here as the project implementation requires them.
+python-dotenv
