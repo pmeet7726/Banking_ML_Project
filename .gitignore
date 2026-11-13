@@ -10,12 +10,18 @@ data/raw/*
 data/interim/*
 data/processed/*
 
-models/
+models/*
+!models/training/
+models/training/*
+!models/training/.gitkeep
 logs/
 reports/*
 !reports/cleaning/
 reports/cleaning/*
 !reports/cleaning/.gitkeep
+!reports/model_training/
+reports/model_training/*
+!reports/model_training/.gitkeep
 
 .ipynb_checkpoints/
 .idea/
